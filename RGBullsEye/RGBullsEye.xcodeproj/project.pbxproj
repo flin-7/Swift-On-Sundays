@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C207C1F1237F304400A6F987 /* TimeCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C207C1F0237F304400A6F987 /* TimeCounter.swift */; };
 		C2DA550D237E03EA009E3397 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DA550C237E03EA009E3397 /* AppDelegate.swift */; };
 		C2DA550F237E03EA009E3397 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DA550E237E03EA009E3397 /* SceneDelegate.swift */; };
 		C2DA5511237E03EA009E3397 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DA5510237E03EA009E3397 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C207C1F0237F304400A6F987 /* TimeCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCounter.swift; sourceTree = "<group>"; };
 		C2DA5509237E03EA009E3397 /* RGBullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RGBullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2DA550C237E03EA009E3397 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C2DA550E237E03EA009E3397 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				C2DA550C237E03EA009E3397 /* AppDelegate.swift */,
 				C2DA550E237E03EA009E3397 /* SceneDelegate.swift */,
 				C2DA5510237E03EA009E3397 /* ContentView.swift */,
+				C207C1F0237F304400A6F987 /* TimeCounter.swift */,
 				C2DA5512237E03EB009E3397 /* Assets.xcassets */,
 				C2DA5517237E03EB009E3397 /* LaunchScreen.storyboard */,
 				C2DA551A237E03EB009E3397 /* Info.plist */,
@@ -149,6 +152,7 @@
 				C2DA550D237E03EA009E3397 /* AppDelegate.swift in Sources */,
 				C2DA550F237E03EA009E3397 /* SceneDelegate.swift in Sources */,
 				C2DA5511237E03EA009E3397 /* ContentView.swift in Sources */,
+				C207C1F1237F304400A6F987 /* TimeCounter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
