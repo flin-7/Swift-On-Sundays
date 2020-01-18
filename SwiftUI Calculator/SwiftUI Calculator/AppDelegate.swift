@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  RGBullsEye
+//  SwiftUI Calculator
 //
-//  Created by Felix Lin on 11/14/19.
-//  Copyright © 2019 Felix Lin. All rights reserved.
+//  Created by Felix Lin on 1/10/20.
+//  Copyright © 2020 Felix Lin. All rights reserved.
 //
 
 import UIKit
